@@ -102,7 +102,7 @@
               "id": "https://liladude.github.io/Manifest_server/garofalo-ligorio-comparison/annotation/fig9",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://liladude.github.io/Manifest_server/garofalo-ligorio-comparison/canvas/storyboard#xywh=200,50,3067,2125",
+              "target": "https://liladude.github.io/Manifest_server/garofalo-ligorio-comparison/canvas/storyboard#xywh=25,148,452,313",
               "body": {
                 "id": "https://fotothek.biblhertz.it/iiif/3/dpub%2Fhsah0410%2Fhsah_0410_09.jp2/full/max/0/default.jpg",
                 "type": "Image",
@@ -130,7 +130,7 @@
               "id": "https://liladude.github.io/Manifest_server/garofalo-ligorio-comparison/annotation/fig10",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://liladude.github.io/Manifest_server/garofalo-ligorio-comparison/canvas/storyboard#xywh=0,1650,1155,950",
+              "target": "https://liladude.github.io/Manifest_server/garofalo-ligorio-comparison/canvas/storyboard#xywh=25,357,215,320",
               "body": {
                 "id": "https://fotothek.biblhertz.it/iiif/3/dpub%2Fhsah0410%2Fhsah_0410_10.jp2/full/max/0/default.jpg",
                 "type": "Image",
@@ -158,7 +158,7 @@
               "id": "https://liladude.github.io/Manifest_server/garofalo-ligorio-comparison/annotation/fig11",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://liladude.github.io/Manifest_server/garofalo-ligorio-comparison/canvas/storyboard#xywh=1155,1650,1155,950",
+              "target": "https://liladude.github.io/Manifest_server/garofalo-ligorio-comparison/canvas/storyboard#xywh=261,357,220,320",
               "body": {
                 "id": "https://fotothek.biblhertz.it/iiif/3/dpub%2Fhsah0410%2Fhsah_0410_11.jp2/full/max/0/default.jpg",
                 "type": "Image",
@@ -186,7 +186,7 @@
               "id": "https://liladude.github.io/Manifest_server/garofalo-ligorio-comparison/annotation/fig12",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://liladude.github.io/Manifest_server/garofalo-ligorio-comparison/canvas/storyboard#xywh=2310,1650,1157,950",
+              "target": "https://liladude.github.io/Manifest_server/garofalo-ligorio-comparison/canvas/storyboard#xywh=502,357,219,320",
               "body": {
                 "id": "https://fotothek.biblhertz.it/iiif/3/dpub%2Fhsah0410%2Fhsah_0410_12.jp2/full/max/0/default.jpg",
                 "type": "Image",
@@ -223,7 +223,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "target": {
-                "id": "https://liladude.github.io/Manifest_server/garofalo-ligorio-comparison/canvas/storyboard#xywh=600,800,2267,200",
+                "id": "https://liladude.github.io/Manifest_server/garofalo-ligorio-comparison/canvas/storyboard#xywh=25,148,452,313",
                 "type": "SpecificResource",
                 "source": "https://liladude.github.io/Manifest_server/garofalo-ligorio-comparison/canvas/storyboard"
               },
@@ -239,7 +239,7 @@
               "type": "Annotation",
               "motivation": "commenting",
               "target": {
-                "id": "https://liladude.github.io/Manifest_server/garofalo-ligorio-comparison/canvas/storyboard#xywh=200,2000,3067,200",
+                "id": "https://liladude.github.io/Manifest_server/garofalo-ligorio-comparison/canvas/storyboard#xywh=25,357,720,320",
                 "type": "SpecificResource",
                 "source": "https://liladude.github.io/Manifest_server/garofalo-ligorio-comparison/canvas/storyboard"
               },
