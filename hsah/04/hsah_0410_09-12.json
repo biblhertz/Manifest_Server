@@ -222,11 +222,7 @@
               "id": "https://liladude.github.io/Manifest_server/garofalo-ligorio-comparison/annotation/scholarly-note-1",
               "type": "Annotation",
               "motivation": "commenting",
-              "target": {
-                "id": "https://liladude.github.io/Manifest_server/garofalo-ligorio-comparison/canvas/storyboard#xywh=25,148,452,313",
-                "type": "SpecificResource",
-                "source": "https://liladude.github.io/Manifest_server/garofalo-ligorio-comparison/canvas/storyboard"
-              },
+              "target": "https://liladude.github.io/Manifest_server/garofalo-ligorio-comparison/canvas/storyboard#xywh=25,148,452,313",
               "body": {
                 "type": "TextualBody",
                 "value": "Fonte principale: il dipinto di Garofalo deriva dal disegno raffaellesco e diventa matrice per le rielaborazioni di Ligorio",
@@ -238,11 +234,7 @@
               "id": "https://liladude.github.io/Manifest_server/garofalo-ligorio-comparison/annotation/scholarly-note-2",
               "type": "Annotation",
               "motivation": "commenting",
-              "target": {
-                "id": "https://liladude.github.io/Manifest_server/garofalo-ligorio-comparison/canvas/storyboard#xywh=25,357,720,320",
-                "type": "SpecificResource",
-                "source": "https://liladude.github.io/Manifest_server/garofalo-ligorio-comparison/canvas/storyboard"
-              },
+              "target": "https://liladude.github.io/Manifest_server/garofalo-ligorio-comparison/canvas/storyboard#xywh=25,357,720,320",
               "body": {
                 "type": "TextualBody",
                 "value": "Tre derivazioni ligoriane: isolamento e reinterpretazione michelangiolesca delle figure centrali",
