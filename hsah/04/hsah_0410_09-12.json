@@ -222,7 +222,7 @@
               "id": "https://liladude.github.io/Manifest_server/garofalo-ligorio-comparison/annotation/scholarly-note-1",
               "type": "Annotation",
               "motivation": "commenting",
-              "target": "https://liladude.github.io/Manifest_server/garofalo-ligorio-comparison/canvas/storyboard#xywh=25,148,452,313",
+              "target": "https://liladude.github.io/Manifest_server/garofalo-ligorio-comparison/canvas/storyboard#xywh=148,25,452,313",
               "body": {
                 "type": "TextualBody",
                 "value": "Fonte principale: il dipinto di Garofalo deriva dal disegno raffaellesco e diventa matrice per le rielaborazioni di Ligorio",
